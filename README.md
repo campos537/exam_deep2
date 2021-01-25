@@ -1,4 +1,4 @@
-# exam_deep2
+# Find and Count Checkers
 
 to run the code need to have OpenCV installed
 
